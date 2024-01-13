@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, University of Cincinnati, 2023 (Minor in Robotics)
+* B.S. in Mechanical Engineering, Chongqing University, 2023
+* M.S. in Mechanical Engineering and Applied Science, University of Pennsylvania, 2025 (expected)
 
 Work experience
 ======
