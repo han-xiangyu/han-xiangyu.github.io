@@ -17,17 +17,17 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Data Engineering
+  * State Grid Corporation of China
+  * Duties included: Analyze data
+  * Supervisor: Guannan Cao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2020 - Spring 2022: Research Assistant
+  * Chongqing University
+  * Duties included: Performance boundary analysis
+  * Supervisor: Professor Feng Gao
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
