@@ -14,15 +14,16 @@ My research interests lies at the intersection of robotics, computer vision, and
 
 News & Updates
 ======
-* [2023/08] I started pursuing a master's degree in Mechanical Engineering at the University of Pennsylvania.
-* [2023/06] I graduated from Chongqing University 
-* [2023/05] I graduated from University of Cincinnati
+[2023/08] I started pursuing a master's degree in Mechanical Engineering at the University of Pennsylvania.
+[2023/06] I graduated from Chongqing University 
+[2023/05] I graduated from University of Cincinnati
 
 Education
 ======
+* M.S. in Mechanical Engineering and Applied Science, University of Pennsylvania, 2025 (expected)
 * B.S. in Mechanical Engineering, University of Cincinnati, 2023 (Minor in Robotics)
 * B.S. in Mechanical Engineering, Chongqing University, 2023
-* M.S. in Mechanical Engineering and Applied Science, University of Pennsylvania, 2025 (expected)
+
 
 Work experience
 ======
@@ -36,7 +37,20 @@ Work experience
   * Duties included: Performance boundary analysis
   * Supervisor: Professor Feng Gao
 
+* Fall 2022, Fall 2021: Teaching Assistant
+  * University of Cincinnati
+  * Course: Engineering Design Thinking I, Engineering Modeling, Engineering Foundation
+  * Supervisor: Junqiu Wang, Alex Michael Wouden, Fu-lin Tsung
+
+  
 Selected Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
+<!-- Selected Publications
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -67,4 +81,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
