@@ -10,13 +10,33 @@ redirect_from:
 
 I am a master student in [Mechanical Engineering of University of Pennsylvania](https://www.me.upenn.edu/). I was advised by [Prof. Feng Gao](http://mve.cqu.edu.cn/info/1309/4302.htm) at Laboratory of Intelligent and Connected Vehicles and advised by [Prof.Janet Dong](https://researchdirectory.uc.edu/p/dongjg) at UC Center for Robotics Research. I received my Bachelor's degrees from both [University of Cincinnati](https://www.uc.edu/) and [Chongqing University](https://www.cqu.edu.cn/)
 
-<!-- A data-driven personal website
+My research interests lies at the intersection of robotics, computer vision, and machine learning. I'm actively exploring internship opportunities both in research and industry, you can download my CV [here](https://han-xiangyu.github.io/files/CV.pdf)
+
+News & Updates
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* [2023/08] I started pursuing a master's degree in Mechanical Engineering at the University of Pennsylvania.
+* [2023/06] I graduated from Chongqing University 
+* [2023/05] I graduated from University of Cincinnati
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Education
+======
+* B.S. in Mechanical Engineering, University of Cincinnati, 2023 (Minor in Robotics)
+* B.S. in Mechanical Engineering, Chongqing University, 2023
+* M.S. in Mechanical Engineering and Applied Science, University of Pennsylvania, 2025 (expected)
 
-Getting started
+Work experience
+======
+* Summer 2023: Data Engineering
+  * State Grid Corporation of China
+  * Duties included: Analyze data
+  * Supervisor: Guannan Cao
+
+* Fall 2020 - Spring 2022: Research Assistant
+  * Chongqing University
+  * Duties included: Performance boundary analysis
+  * Supervisor: Professor Feng Gao
+
+Selected Publications
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -47,4 +67,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
