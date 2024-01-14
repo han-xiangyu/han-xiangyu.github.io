@@ -42,7 +42,7 @@ Work experience
 * Project: Performance boundary analysis
 * Supervisor: Professor Feng Gao
 
-**University of Cincinnati, Cincinnati, OH, Fall 2022, Fall 2021**
+**University of Cincinnati, Cincinnati, OH, Fall 2021, Fall 2022**
 * Teaching Assistant
 * Course: Engineering Design Thinking I, Engineering Modeling, Engineering Foundation
 * Supervisor: Junqiu Wang, Alex Michael Wouden, Fu-lin Tsung
