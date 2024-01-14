@@ -26,7 +26,7 @@ Master of Science in Mechanical Engineering and Applied Science
 **University of Cincinnati, Cincinnati, OH, 2023**<br>
 Bachelor of Science in Mechanical Engineering, Minor in Robotics, Magna cum laude
 
-**University of Cincinnati, Chongqing, China, 2023**<br>
+**Chongqing University, Chongqing, China, 2023**<br>
 Bachelor of Science in Mechanical Engineering and Automation
 
 
