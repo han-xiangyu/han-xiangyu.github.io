@@ -14,21 +14,19 @@ My research interests lies at the intersection of robotics, computer vision, and
 
 News & Updates
 ======
-[2023/08] I started pursuing a master's degree in Mechanical Engineering at the University of Pennsylvania.
-
-[2023/06] I graduated from Chongqing University 
-
-[2023/05] I graduated from University of Cincinnati
+[2023/08] I started pursuing a master's degree in Mechanical Engineering at the University of Pennsylvania.<br>
+[2023/06] I graduated from Chongqing University <br>
+[2023/05] I graduated from University of Cincinnati <br>
 
 Education
 ======
-* **University of Pennsylvania, Philadelphia, PA, 2025 (expected)**
+* **University of Pennsylvania, Philadelphia, PA, 2025 (expected)**<br>
 Master of Science in Mechanical Engineering and Applied Science
 
-* **University of Cincinnati, Cincinnati, OH, 2023**
+* **University of Cincinnati, Cincinnati, OH, 2023**<br>
 Bachelor of Science in Mechanical Engineering, Minor in Robotics, Magna cum laude
 
-* **University of Cincinnati, Chongqing, China, 2023**
+* **University of Cincinnati, Chongqing, China, 2023**<br>
 Bachelor of Science in Mechanical Engineering and Automation
 
 
