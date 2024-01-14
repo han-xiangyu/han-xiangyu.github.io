@@ -3,7 +3,7 @@ title: "A New Density-Based Clustering Method Considering Spatial Distribution o
 collection: publications
 permalink: /publication/pub1_A_New_Density-Based
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021-08
+date: 2021-08-19
 # venue: 'Journal 1'
 paperurl: 'https://doi.org/10.3390/electronics10162005'
 citation: 'Caihong Li, Feng Gao, Xiangyu Han, and Bowen Zhang. “A New Density-Based Clustering Method Considering Spatial Distribution of Lidar Point Cloud for Object Detection of Autonomous Driving.” Electronics, vol. 10, 19 Aug. 2021, pp. 2005., https://doi.org/10.3390/electronics10162005.'
