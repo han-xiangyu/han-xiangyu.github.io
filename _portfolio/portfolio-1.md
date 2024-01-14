@@ -1,7 +1,7 @@
 ---
 title: "Avenger Face Detection"
 excerpt: "This project is dedicated to recognizing faces of five Avengers, either individually or in a group image.
-<br/><img src='/images/screenshot1.png'>"
+<br/><br/><img src='/images/screenshot1.png'>"
 collection: portfolio
 ---
 ## Source Code
