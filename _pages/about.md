@@ -10,7 +10,7 @@ redirect_from:
 
 I am a master student in [Mechanical Engineering of University of Pennsylvania](https://www.me.upenn.edu/). I was advised by [Prof. Feng Gao](http://mve.cqu.edu.cn/info/1309/4302.htm) at Laboratory of Intelligent and Connected Vehicles and advised by [Prof.Janet Dong](https://researchdirectory.uc.edu/p/dongjg) at UC Center for Robotics Research. I received my Bachelor's degrees from both [University of Cincinnati](https://www.uc.edu/) and [Chongqing University](https://www.cqu.edu.cn/).
 
-My research interests lies at the intersection of robotics, computer vision, and machine learning. I'm actively exploring internship opportunities both in research and industry, you can download my CV [here](https://han-xiangyu.github.io/files/CV.pdf).
+My research interests lies at the intersection of robotics, computer vision, and machine learning. I'm actively exploring internship opportunities both in research and industry, here's my CV [here](https://han-xiangyu.github.io/files/CV.pdf).
 
 <!-- News & Updates
 ======
@@ -32,20 +32,26 @@ Bachelor of Science in Mechanical Engineering and Automation
 
 Work experience
 ======
-**State Grid Corporation of China, Luoyang, China, Summer 2023**
-* Data Engineer
-* Project: Analysis of Solar Panel Power Generation and Electricity Usage Data in Rural Areas of Luoyang
-* Supervisor: Guannan Cao
+**State Grid Corporation of China, Luoyang, China, Summer 2023**<br>
+Data Engineer<br>
+Project: Analysis of Solar Panel Power Generation and Electricity Usage Data in Rural Areas of Luoyang<br>
+Supervisor: Guannan Cao<br>
 
-**Chongqing University, Chongqing, China, Fall 2020 - Spring 2022**
-* Research Assistant at Laboratory of Intelligent and Connected Vehicles
-* Project: Performance boundary analysis
-* Supervisor: Professor Feng Gao
+**Chongqing University, Chongqing, China, Fall 2020 - Spring 2022**<br>
+Research Assistant at Laboratory of Intelligent and Connected Vehicles<br>
+Project: Performance boundary analysis<br>
+Supervisor: Professor Feng Gao<br>
 
-**University of Cincinnati, Cincinnati, OH, Fall 2021, Fall 2022**
-* Teaching Assistant
-* Course: Engineering Design Thinking I, Engineering Modeling, Engineering Foundation
-* Supervisor: Junqiu Wang, Alex Michael Wouden, Fu-lin Tsung
+**University of Cincinnati, Cincinnati, OH, Fall 2021, Fall 2022**<br>
+Teaching Assistant<br>
+Course: Engineering Design Thinking I, Engineering Modeling, Engineering Foundation<br>
+Supervisor: Junqiu Wang, Alex Michael Wouden, Fu-lin Tsung<br>
+
+Skills
+======   
+**Programming Languages:** Python, C/C++, MATLAB, LabView
+**Development Tools:** ROS (Robotics Operating System), OpenCV, Scikit-Learn, STM32, Arduino
+**Software:** CATIA, SolidWorks, NX, ANSYS, Auto CAD
 
 
 <!-- Selected Publications
