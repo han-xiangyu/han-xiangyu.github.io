@@ -8,46 +8,52 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in [Mechanical Engineering of University of Pennsylvania](https://www.me.upenn.edu/). I was advised by [Prof. Feng Gao](http://mve.cqu.edu.cn/info/1309/4302.htm) at Laboratory of Intelligent and Connected Vehicles and advised by [Prof.Janet Dong](https://researchdirectory.uc.edu/p/dongjg) at UC Center for Robotics Research. I received my Bachelor's degrees from both [University of Cincinnati](https://www.uc.edu/) and [Chongqing University](https://www.cqu.edu.cn/)
+I am a master student in [Mechanical Engineering of University of Pennsylvania](https://www.me.upenn.edu/). I was advised by [Prof. Feng Gao](http://mve.cqu.edu.cn/info/1309/4302.htm) at Laboratory of Intelligent and Connected Vehicles and advised by [Prof.Janet Dong](https://researchdirectory.uc.edu/p/dongjg) at UC Center for Robotics Research. I received my Bachelor's degrees from both [University of Cincinnati](https://www.uc.edu/) and [Chongqing University](https://www.cqu.edu.cn/).
 
-My research interests lies at the intersection of robotics, computer vision, and machine learning. I'm actively exploring internship opportunities both in research and industry, you can download my CV [here](https://han-xiangyu.github.io/files/CV.pdf)
+My research interests lies at the intersection of robotics, computer vision, and machine learning. I'm actively exploring internship opportunities both in research and industry, you can download my CV [here](https://han-xiangyu.github.io/files/CV.pdf).
 
 News & Updates
 ======
 [2023/08] I started pursuing a master's degree in Mechanical Engineering at the University of Pennsylvania.
+
 [2023/06] I graduated from Chongqing University 
+
 [2023/05] I graduated from University of Cincinnati
 
 Education
 ======
-* M.S. in Mechanical Engineering and Applied Science, University of Pennsylvania, 2025 (expected)
-* B.S. in Mechanical Engineering, University of Cincinnati, 2023 (Minor in Robotics)
-* B.S. in Mechanical Engineering, Chongqing University, 2023
+* **University of Pennsylvania, Philadelphia, PA, 2025 (expected)**
+Master of Science in Mechanical Engineering and Applied Science
+
+* **University of Cincinnati, Cincinnati, OH, 2023**
+Bachelor of Science in Mechanical Engineering, Minor in Robotics, Magna cum laude
+
+* **University of Cincinnati, Chongqing, China, 2023**
+Bachelor of Science in Mechanical Engineering and Automation
 
 
 Work experience
 ======
-* Summer 2023: Data Engineering
-  * State Grid Corporation of China
-  * Duties included: Analyze data
+* **State Grid Corporation of China, Luoyang, China, Summer 2023**
+  * Data Engineer
   * Supervisor: Guannan Cao
 
-* Fall 2020 - Spring 2022: Research Assistant
-  * Chongqing University
-  * Duties included: Performance boundary analysis
+* **Chongqing University, Chongqing, China, Fall 2020 - Spring 2022**
+  * Research Assistant at Laboratory of Intelligent and Connected Vehicles
+  * Project: Performance boundary analysis
   * Supervisor: Professor Feng Gao
 
-* Fall 2022, Fall 2021: Teaching Assistant
-  * University of Cincinnati
+* **University of Cincinnati, Cincinnati, OH, Fall 2022, Fall 2021**
+  * Teaching Assistant
   * Course: Engineering Design Thinking I, Engineering Modeling, Engineering Foundation
   * Supervisor: Junqiu Wang, Alex Michael Wouden, Fu-lin Tsung
 
-  
-Selected Publications
+
+<!-- Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 
 <!-- Selected Publications
