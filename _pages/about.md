@@ -30,23 +30,6 @@ Bachelor of Science in Mechanical Engineering, Minor in Robotics, Magna cum laud
 Bachelor of Science in Mechanical Engineering and Automation
 
 
-Work experience
-======
-**State Grid Corporation of China, Luoyang, China, Summer 2023**
-* Data Engineer
-* Project: Analysis of Solar Panel Power Generation and Electricity Usage Data in Rural Areas of Luoyang
-* Supervisor: Guannan Cao
-
-**Chongqing University, Chongqing, China, Fall 2020 - Spring 2022**
-* Research Assistant at Laboratory of Intelligent and Connected Vehicles
-* Project: Performance boundary analysis
-* Supervisor: Professor Feng Gao
-
-**University of Cincinnati, Cincinnati, OH, Fall 2021, Fall 2022**
-* Teaching Assistant
-* Course: Engineering Design Thinking I, Engineering Modeling, Engineering Foundation
-* Supervisor: Junqiu Wang, Alex Michael Wouden, Fu-lin Tsung
-
 Skills
 ======   
 **Programming Languages:** Python, C/C++, MATLAB, LabView<br>
