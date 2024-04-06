@@ -10,7 +10,8 @@ redirect_from:
 
 I am a master's student in Robotics at [GRASP Laboratory](https://www.me.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/). I was advised by [Prof. Feng Gao](http://mve.cqu.edu.cn/info/1309/4302.htm) at Laboratory of Intelligent and Connected Vehicles and advised by [Prof.Janet Dong](https://researchdirectory.uc.edu/p/dongjg) at UC Center for Robotics Research. I received my Bachelor's degrees from both [University of Cincinnati](https://www.uc.edu/) and [Chongqing University](https://www.cqu.edu.cn/).
 
-My research interests lies at the intersection of robotics, computer vision, and machine learning. I'm actively exploring internship opportunities both in research and industry, here's my [CV](https://han-xiangyu.github.io/files/CV.pdf).
+My research interests lies at the intersection of robotics, computer vision, and machine learning. I'm actively exploring internship opportunities both in research and industry.
+<!-- , here's my [CV](https://han-xiangyu.github.io/files/CV.pdf). -->
 
 <!-- News & Updates
 ======
