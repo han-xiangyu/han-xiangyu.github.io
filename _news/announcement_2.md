@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-EUVS is submitted to CVPR 2025!
+EUVS is submitted to CVPR 2025.
 
