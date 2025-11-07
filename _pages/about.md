@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Machine Learning Engineer at [May Mobility](https://maymobility.com/). Previously, I earned my Master's degree in Robotics from the [GRASP Lab](https://www.grasp.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/), where I worked with [Prof. Lingjie Liu](https://lingjie0206.github.io/). I also had the pleasure of collaborating with [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng)(NYU) and [Dr. Yiming Li](https://yimingli-page.github.io/)(NVIDIA). I hold dual Bachelor's degrees from the [University of Cincinnati](https://www.uc.edu/) and [Chongqing University](https://english.cqu.edu.cn/).
+I am a Machine Learning Engineer at [May Mobility](https://maymobility.com/). Previously, I earned my Master's degree in Robotics from the [GRASP Lab](https://www.grasp.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/), where I worked with [Prof. Lingjie Liu](https://lingjie0206.github.io/). I also had the pleasure of collaborating with [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) (NYU) and [Dr. Yiming Li](https://yimingli-page.github.io/) (NVIDIA). I hold dual Bachelor's degrees from the [University of Cincinnati](https://www.uc.edu/) and [Chongqing University](https://english.cqu.edu.cn/).
 
-My research interests lie broadly in computer vision, machine learning, and robotics, with a particular focus on **3D Vision** and **World Model**. My goal is to advance robotic understanding and reasoning in the 3D physical world by developing physically aligned simulators and world models.
+My research interests broadly span computer vision, machine learning, and robotics, with a particular focus on 3D vision and world models. My goal is to advance robotic understanding and reasoning in the 3D physical world by developing physically grounded simulators and world models.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
