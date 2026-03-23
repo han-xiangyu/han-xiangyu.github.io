@@ -7,7 +7,7 @@
   preview={EUVS.png},
   title={Extrapolated Urban View Synthesis Benchmark}, 
   author={Han, Xiangyu and Jia, Zhen and Li, Boyi and Wang, Yan and Ivanovic, Boris and You, Yurong and Liu, Lingjie and Wang, Yue and Pavone, Marco and Feng, Chen and Li, Yiming},
-  journal={IEEE International Conference on Computer Vision (ICCV)},
+  journal={The IEEE International Conference on Computer Vision (ICCV)},
   year={2025},
   selected={true},
   code={https://github.com/ai4ce/EUVS-Benchmark/},
@@ -18,12 +18,12 @@
 }
 
 
-@article{zhang2024falcon,
-  abbr={Preprint},
+@article{zhang2025falcon,
+  abbr={ICLR},
   preview={falcon.png},
   title={Falcon: Fractional Alternating Cut with Overcoming minima in Unsupervised Segmentation}, 
   author={Zhang, Xiao and Han, Xiangyu and Lai, Xiwen and Sun, Yao and Zhang, Pei and Kording, Konrad},
-  journal={Under Review},
+  journal={The International Conference on Learning Representations (ICLR)},
   year={2025},
   selected={true},
   pdf={https://arxiv.org/pdf/2504.05613},
@@ -32,6 +32,20 @@
   abstract={Today's unsupervised image segmentation algorithms often segment suboptimally. Modern graph-cut based approaches rely on high-dimensional attention maps from Transformer-based foundation models, typically employing a relaxed Normalized Cut solved recursively via the Fiedler vector (the eigenvector of the second smallest eigenvalue). Consequently, they still lag behind supervised methods in both mask generation speed and segmentation accuracy. We present a regularized fractional alternating cut (Falcon), an optimization-based K-way Normalized Cut without relying on recursive eigenvector computations, achieving substantially improved speed and accuracy. Falcon operates in two stages: (1) a fast K-way Normalized Cut solved by extending into a fractional quadratic transformation, with an alternating iterative procedure and regularization to avoid local minima; and (2) refinement of the resulting masks using complementary low-level information, producing high-quality pixel-level segmentations. Experiments show that Falcon not only surpasses existing state-of-the-art methods by an average of 2.5% across six widely recognized benchmarks (reaching up to 4.3% improvement on Cityscapes), but also reduces runtime by around 30% compared to prior graph-based approaches. These findings demonstrate that the semantic information within foundation-model attention can be effectively harnessed by a highly parallelizable graph cut framework. Consequently, Falcon can narrow the gap between unsupervised and supervised segmentation, enhancing scalability in real-world applications and paving the way for dense prediction-based vision pre-training in various downstream tasks.}
 }
 
+@article{yu2025thinking,
+  abbr={ICLR},
+  preview={thinking360.png},
+  title={Thinking in 360°: Humanoid Visual Search in the Wild}, 
+  author={Yu, Heyang and Han, Yinan and Zhang, Xiangyu and Yin, Baiqiao and Chang, Bowen and Han, Xiangyu and Liu, Xinhao and Zhang, Jing and Pavone, Marco and Feng, Chen and Xie, Saining and Li, Yiming},
+  journal={The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026},
+  selected={true},
+  pdf={https://arxiv.org/pdf/2511.20351},
+  code={https://github.com/THUSI-Lab/Hstar},
+  website ={https://humanoid-vstar.github.io/},
+  arxiv={2511.20351},
+  abstract={Humans rely on the synergistic control of head (cephalomotor) and eye (oculomotor) to efficiently search for visual information in 360°. However, prior approaches to visual search are limited to a static image, neglecting the physical embodiment and its interaction with the 3D world. How can we develop embodied visual search agents as efficient as humans while bypassing the constraints imposed by real-world hardware? To this end, we propose humanoid visual search where a humanoid agent actively rotates its head to search for objects or paths in an immersive world represented by a 360° panoramic image. To study visual search in visually-crowded real-world scenarios, we build H* Bench, a new benchmark that moves beyond household scenes to challenging in-the-wild scenes that necessitate advanced visual-spatial reasoning capabilities, such as transportation hubs, large-scale retail spaces, urban streets, and public institutions. Our experiments first reveal that even top-tier proprietary models falter, achieving only ~30% success in object and path search. We then use post-training techniques to enhance the open-source Qwen2.5-VL, increasing its success rate by over threefold for both object search (14.83% to 47.38%) and path search (6.44% to 24.94%). Notably, the lower ceiling of path search reveals its inherent difficulty, which we attribute to the demand for sophisticated spatial commonsense. Our results not only show a promising path forward but also quantify the immense challenge that remains in building MLLM agents that can be seamlessly integrated into everyday human life.}
+}
 
 @article{li2021new,
   abbr={Electronics},
